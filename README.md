@@ -2,7 +2,7 @@
 
 This repository contains three data:
 1. Bilingual dictionary: 11,905-size Minangkabau–Indonesian word pairs.
-2. Sentiment Analysis: 5,000-size (1,481 positive and 3,519 negative labels) parallel Minangkabau-Indonesian Sentiment Analysis corpus.
+2. Sentiment Analysis: 5,000-size (1,481 positive and 3,519 negative labels) parallel Minangkabau-Indonesian texts.
 3. Machine translation: 16,371-size parallel Minangkabau-Indonesian sentence pairs.
 
 Please cite our works if you use our corpus:
