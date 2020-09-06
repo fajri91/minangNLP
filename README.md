@@ -1,7 +1,5 @@
 # MinangNLP
 
-![Rumah Gadang](https://ecs7.tokopedia.net/img/cache/700/product-1/2020/3/12/96993868/96993868_62c40596-c957-43d2-9ee9-186d4adb3621_740_314.jpg)
-
 This repository contains three data:
 1. Bilingual dictionary: 11,905-size Minangkabau–Indonesian word pairs.
 2. Sentiment Analysis: 5,000-size (1,481 positive and 3,519 negative labels) parallel Minangkabau-Indonesian Sentiment Analysis corpus.
