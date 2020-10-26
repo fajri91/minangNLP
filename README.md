@@ -46,7 +46,7 @@ CUDA_VISIBLE_DEVICES=0 onmt_train -data demo2/demo -save_model demo2/demo-model 
 ```
 For training with Transformer (2 GPUs):
 ```
-CUDA_VISIBLE_DEVICES=0,1 python  train.py -data /home/ffajri/Workspace/MinangNLP/translation/data/demo2/demo -save_model /home/ffajri/Workspace/MinangNLP/translation/data/demo2/transformer \
+CUDA_VISIBLE_DEVICES=0,1 onmt_train -data /home/ffajri/Workspace/MinangNLP/translation/data/demo2/demo -save_model /home/ffajri/Workspace/MinangNLP/translation/data/demo2/transformer \
         -layers 6 -rnn_size 512 -word_vec_size 512 -transformer_ff 2048 -heads 8  \
         -encoder_type transformer -decoder_type transformer -position_encoding \
         -train_steps 50000  -max_generator_batches 2 -dropout 0.3 \
