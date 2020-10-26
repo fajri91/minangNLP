@@ -28,6 +28,9 @@ As mentioned in the paper, we use Open-NMT implementation. Please clone and inst
 
 The raw data is in `translation/wiki_data/all_data.xslx`. The provided splits have been tokenized by [Moses Tokenizer](https://pypi.org/project/mosestokenizer/).
 
+In `translation/wiki_data/` directory, `src_*` is Minangkabau language while `tgt_*` is Indonesian language. `*_sent.txt` is the text from sentiment analysis corpus (`sentiment/data/`)
+
+
 For data preprocessing:
 ```
 cd translation/wiki_data
