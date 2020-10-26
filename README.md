@@ -15,10 +15,10 @@ Please cite our works if you use our corpus:
 You need to install dependencies by:
 `pip install -r requirements.txt`
 
-For running the experiment, you can run directly:
+For running the experiment (1 GPU), you can run directly:
 ```
-python bilstm.py
-python mBert.py
+CUDA_VISIBLE_DEVICES=0 python bilstm.py
+CUDA_VISIBLE_DEVICES=0 python mBert.py
 ```
 We provide jupyter notebook for other models including logistic regression, SVM, and Naive Bayes.
 
