@@ -7,7 +7,7 @@ This repository contains three data:
 
 Please cite our works if you use our corpus:
 
- **Fajri Koto, and Ikhwan Koto. _Towards Computational Linguistics in Minangkabau Language: Studies on Sentiment Analysis and Machine Translation_.  In Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation (PACLIC), Vietnam, October, 2020.**
+ Fajri Koto, and Ikhwan Koto. [_Towards Computational Linguistics in Minangkabau Language: Studies on Sentiment Analysis and Machine Translation_](https://arxiv.org/pdf/2009.09309.pdf).  In Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation (PACLIC), Vietnam, October, 2020.
  
  
 ### Sentiment Analysis Experiment
